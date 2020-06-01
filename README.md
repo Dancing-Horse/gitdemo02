@@ -1,3 +1,3 @@
 # gitdemo01
-demo test
+lianji test
 hello world!
